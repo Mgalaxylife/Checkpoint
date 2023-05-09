@@ -8,6 +8,7 @@ Vocês receberão um problema fictício para resolver ([inspiração original](h
 
 ### Empresa
 Nome da empresa: Reino do rei e da rainha
+
 O que sabemos sobre eles:
 
 ● Eles gostaram da análise exploratória;
