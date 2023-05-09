@@ -23,7 +23,7 @@ O primeiro desejo do rei é preencher os dados faltantes da tabela.
 O segundo desejo do rei é ter o poder de prever se uma combinação será venenosa ou não. Isso poupará a vida de vários aldeões nos testes, já que, idealmente, a poção da imortalidade não deve matar quem a toma.
 
 ## Objetivo
-Necessidade 1: Criar um modelo que prediz o valor dos dados faltantes;
+● Necessidade 1: Criar um modelo que prediz o valor dos dados faltantes;
 
 ● Necessidade 2: Criar um modelo que prediz se uma poção será venenosa (1) ou não (0), com base em dados anteriores.
 
